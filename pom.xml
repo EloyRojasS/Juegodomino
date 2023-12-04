@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>ec.edu.espol.juegodomino.JuegoDomino</exec.mainClass>
     </properties>
+    <name>JuegoDomi</name>
 </project>
